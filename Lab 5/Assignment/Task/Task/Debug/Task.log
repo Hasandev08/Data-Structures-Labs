@@ -1,0 +1,4 @@
+﻿  Task.cpp
+D:\University\Semester#3\DSA\Lab 5\Assignment\Task\Task\Task.cpp(223): warning C4715: 'getPageNameFromNumber': not all control paths return a value
+D:\University\Semester#3\DSA\Lab 5\Assignment\Task\Task\Task.cpp(253): warning C4715: 'getPageName': not all control paths return a value
+  Task.vcxproj -> D:\University\Semester#3\DSA\Lab 5\Assignment\Task\Debug\Task.exe
